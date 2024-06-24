@@ -44,7 +44,7 @@ export default function HeroBody() {
                 </div>
                 <div id="photo">
                     <div>
-                        <img src="logo192.png" alt="" width="370px"/>
+                        <img src="my_photo.jpg" alt="" width="370px"/>
                     </div>
                 </div>
                 
